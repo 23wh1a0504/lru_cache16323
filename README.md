@@ -1,7 +1,5 @@
 # LRU Cache Visualizer
-
 An interactive web application that visualizes the Least Recently Used (LRU) cache algorithm in real-time.
-
 ![LRU Cache Visualizer](https://img.shields.io/badge/status-active-success)
 ![React](https://img.shields.io/badge/frontend-react-blue)
 ![Node.js](https://img.shields.io/badge/backend-node.js-green)
